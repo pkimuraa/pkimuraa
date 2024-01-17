@@ -2,7 +2,7 @@
 
 Currently working as freelancer to Milgrau mobile app and working in several projects
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkimuraa&theme=tokyonight)  [![Pkimuraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkimuraa&show_icons=true&theme=dracula)](https://github.com/pkimuraa/github-readme-stats)   
+
 - 🔭 I’m currently working on in a game with phaser and react!
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything
@@ -22,6 +22,8 @@ passion for creating engaging user experiences. Committed to continuous learning
 updated with the latest industry trends to provide cutting-edge frontend solutions. 
 
 Everyday we don't struggle, we learn to deal with it.
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkimuraa&theme=tokyonight)  [![Pkimuraa's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkimuraa&show_icons=true&theme=dracula)](https://github.com/pkimuraa/github-readme-stats)   
 <!--
 **pkimuraa/pkimuraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
