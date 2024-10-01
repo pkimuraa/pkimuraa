@@ -4,7 +4,7 @@ Currently working as freelancer to Milgrau mobile app and working in several pro
 
 
 - 🔭 I’m currently working on in a game with phaser and react!
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Ruby
 - 💬 Ask me about anything
 - 📫 How to reach me: paulo.kimura94@gmail.com
 
